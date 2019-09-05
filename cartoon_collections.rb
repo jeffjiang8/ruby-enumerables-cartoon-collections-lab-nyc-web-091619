@@ -2,7 +2,7 @@ def roll_call_dwarves(array)# code an argument here
   # Your code here
   array.each do |dwarves|
   puts "#{dwarves}"
-end 
+  end 
 end
 
 def summon_captain_planet# code an argument here
